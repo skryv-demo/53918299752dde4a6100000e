@@ -1,1 +1,40 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "v"
+        },
+        "datum_van_de_eerste_insulinetoediening": "07/2012",
+        "patient_niss": 60163457,
+        "naam": "Verschuuren",
+        "voornaam": "Jannah",
+        "geboortedatum": "01/30/2005",
+        "__comma_dummy": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "datum_van_de_meest_recente_consultatie": "26/07/2013"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "26/07/2013",
+                "lengte_cm": 86,
+                "__comma_dummy": null
+            },
+            "gewicht": {
+                "datum_van_bepaling": "26/07/2013",
+                "gewicht_kg": "13,7",
+                "__comma_dummy": null
+            },
+            "systolische_bloeddruk": {
+                "datum_van_bepaling": "26/07/2013",
+                "__comma_dummy": null
+            },
+            "diastolische_bloeddruk": {
+                "datum_van_bepaling": "26/07/2013",
+                "__comma_dummy": null
+            },
+            "insulinedosis_iedag": "2,5",
+            "__comma_dummy": null
+        }
+    }
+}
